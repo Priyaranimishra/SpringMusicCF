@@ -1,8 +1,8 @@
 ---
 applications:
-- name: spring-music
+- name: appspring-music
   memory: 512M
   instances: 1
-  host: springmusic
+  host: appspringmusic
   path: build/libs/spring-music.war
 
