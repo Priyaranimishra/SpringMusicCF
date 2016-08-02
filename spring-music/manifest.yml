@@ -1,6 +1,6 @@
 ---
 applications:
-- name: appspring-music
+- name: springapp-musicapp
   memory: 512M
   instances: 1
   host: appspringmusic
