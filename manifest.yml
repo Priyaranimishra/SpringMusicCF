@@ -3,6 +3,6 @@ applications:
 - name: springapp-musicapp
   memory: 512M
   instances: 1
-  host: springmusic
+  host: thespringmusic
   path: build/libs/spring-music.war
 
